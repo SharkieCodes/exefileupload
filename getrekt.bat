@@ -1,1 +1,2 @@
-shutdown.exe /r /t 00
+echo get hacked nub
+pause
